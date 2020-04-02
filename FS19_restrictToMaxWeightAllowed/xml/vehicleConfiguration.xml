@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<!-- Bitte alle Gewichte in Kilogramm eintragen -->
+
+<additionalVehicleInformation>
+		<vehicle xmlFilename="data/vehicles/......xml" emptyWeight="" maxWeightAllowed="" />
+		
+		<!-- Erst mal nur für ingame Anhänger -->
+		<!--
+		<vehicle xmlFilename="tgx26640.xml" modName="FS19_TGX_26_Flatbed"/>
+		-->
+		
+</additionalVehicleInformation>
